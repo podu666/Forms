@@ -1,0 +1,240 @@
+body {
+    background-color: burlywood;
+}
+.bold {
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+hr {
+    border-color: black;
+}
+.container {
+    background-color: pink;
+    padding: -15px;
+    border: 2px solid white;
+    margin: 0px 600px 10px;
+}
+.pol {
+    position: relative; left: 230px;
+}
+.my_button {
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    position: relative;
+    left: 480px;
+    top: -5px;
+    background-color: silver;
+}
+.container1{
+    background-color:lightblue ;
+    padding: -15px;
+    border: 2px solid white;
+    margin: 0px 600px 10px;
+}
+.pol1 {
+    position: relative; left: 220px;
+}
+.my_button1 {
+    width: 180px;
+    height: 50px;
+    border-radius: 10px;
+    position: relative;
+    left: 210px;
+    top: -5px;
+    background-color: silver;
+}
+.my_button2 {
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    position: relative;
+    left: 220px;
+    top: -5px;
+    background-color: silver;
+}
+.my_button:hover {
+    cursor: pointer;
+}
+.my_button1:hover {
+    cursor: pointer;
+}
+.my_button2:hover {
+    cursor: pointer;
+}
+.container2 {
+    background-color: #cdffcc;
+    padding: -15px;
+    border: 2px solid white;
+    margin: 0px 600px 10px;
+}
+.my_button3 {
+    width: 180px;
+    height: 50px;
+    border-radius: 10px;
+    position: relative;
+    left: -10px;
+    top: 10px;
+    background-color: silver;
+}
+.my_button4 {
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    position: relative;
+    left: -6px;
+    top: 10px;
+    background-color: silver;
+}
+.my_button3:hover {
+    cursor: pointer;
+}
+.my_button4:hover {
+    cursor: pointer;
+}
+.foto {
+    position: relative;
+    top: -18px;
+}
+.container3 {
+    background-color: lightcyan;
+    padding: -15px;
+    border: 2px solid white;
+    margin: 0px 600px 10px;
+}
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.my_button5 {
+    width: 180px;
+    height: 50px;
+    border-radius: 10px;
+    position: relative;
+    left: 165px;
+    top: -40px;
+    background-color: silver;
+}
+.c0n {
+    position: relative;
+    top: -50px;
+}
+.my_button6 {
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    position: relative;
+    left: 165px;
+    top: -40px;
+    background-color: silver;
+}
+.my_button5:hover {
+    cursor: pointer;
+}
+.my_button6:hover {
+    cursor: pointer;
+}
+.zad8 {
+    position: relative;
+    top: -150px;
+
+}
+.container5 {
+    background-color: #ffffe0;
+    padding: -15px;
+    border: 2px solid white;
+    margin: 0px 600px 10px;
+}
+.co {
+    position: relative;
+    left: -60px;
+}
+.c0 {
+    position: relative;
+    top: -70px;
+}
+.my_button7 {
+    width: 180px;
+    height: 50px;
+    border-radius: 10px;
+    position: relative;
+    left: -50px;
+    top: -40px;
+    background-color: silver;
+}
+.my_button8 {
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    position: relative;
+    left: -50px;
+    top: -40px;
+    background-color: silver;
+}
+.container6 {
+    background-color: #ffcc00;
+    padding: -15px;
+    border: 2px solid white;
+    margin: 0px 600px 10px;
+}
+.calc{
+    position: relative;
+    left: 30px;
+}
+.my_button9 {
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+    position: relative;
+    left: 35px;
+    top: -10px;
+    background-color: silver;
+}
+.my_button10 {
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+    position: relative;
+    left: 35px;
+    top: -10px;
+    background-color: silver;
+}
+.my_button11 {
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+    position: relative;
+    left: 35px;
+    top: -10px;
+    background-color: silver;
+}
+.my_button12 {
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+    position: relative;
+    left: 35px;
+    top: -10px;
+    background-color: silver;
+}
+.knopki {
+    top: 5px;
+    position: relative;
+}
+.my_button13 {
+    width: 130px;
+    height: 40px;
+    border-radius: 10px;
+    position: relative;
+    left: 35px;
+    top: 0px;
+    background-color: silver;
+}
